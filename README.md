@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Atharva Patil
 
-### Software Engineer | Flutter Developer | Python Developer | AIML Enthusisast 
+### Software Engineer | Flutter Developer | AIML Enthusisast 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=CSE+Undergrad+%7C+SPPU;Flutter+Developer+%7C+Python+Learner;AI%2FML+Enthusiast;Building+Cross-Platform+Apps;Marketing+Small+Business;Video+Editing+%26+Brand+Promotion" alt="Typing SVG" />
 
