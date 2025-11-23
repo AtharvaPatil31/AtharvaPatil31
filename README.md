@@ -118,7 +118,7 @@ class SoftwareEngineer:
 
 ### 💭 Philosophy
 
-> *"Stay Hungry Stay Foolish."* – Steve Jobs
+> *"Stay Hungry Stay Foolish"* – Steve Jobs
 
 Don't stop when you're tired. Stop when you're done.
 
