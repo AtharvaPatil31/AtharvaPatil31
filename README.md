@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Atharva Patil
 
-### Software Engineer | Flutter Developer | AIML Enthusiasts
+### Software Engineer | Flutter Developer | AIML Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=CSE+Undergrad+%7C+SPPU;Flutter+Developer+%7C+Python+Learner;AI%2FML+Enthusiast;Building+Cross-Platform+Apps;Video+Editor;Brand+Promoter+of+Family+Business" alt="Typing SVG" />
 
@@ -105,7 +105,8 @@ class SoftwareEngineer:
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva-Patil&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaPatil31
+  &theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
 ---
