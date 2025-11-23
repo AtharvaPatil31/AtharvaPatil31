@@ -89,9 +89,9 @@ class SoftwareEngineer:
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **[Civic Issue Reporter](https://github.com/AtharvaPatil31/suraksha_app)** | Mobile app for citizen engagement and municipal issue reporting | Flutter, Firebase, Google Maps API | 🟢 Active |
-| **[LeetCode Visualizer](https://github.com/AtharvaPatil31/Sehat_Sathi)** | Interactive DSA problem visualizer with solution tracking | Flutter, Python, REST APIs | 🟡 In Progress |
-| **[Python DSA Library](https://github.com/AtharvaPatil31/spotify)** | Clean implementations of data structures and algorithms | Python | 🟢 Active |
+| **[Suraksha - Women's Safety App](https://github.com/AtharvaPatil31/suraksha_app)** | Mobile app for citizen engagement and municipal issue reporting | Flutter, Firebase, Google Maps API | 🟢 Active |
+| **[Sehat Sathi - Telemedicine App](https://github.com/AtharvaPatil31/Sehat_Sathi)** | Interactive DSA problem visualizer with solution tracking | Flutter, Python, REST APIs | 🟡 In Progress |
+| **[Spotify Clone - Music Streaming App](https://github.com/AtharvaPatil31/spotify)** | Clean implementations of data structures and algorithms | Python | 🟢 Active |
 
 </div>
 
