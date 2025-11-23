@@ -124,6 +124,6 @@ Don't stop when you're tired. Stop when you're done.
 
 ---
 
-⭐️ From [Atharva-Patil](https://github.com/AtharvaPatil31)
+⭐️ From [Atharva Patil](https://github.com/AtharvaPatil31)
 
 </div>
