@@ -1,132 +1,140 @@
 <div align="center">
+  
+# 👋 Hi, I'm Atharva Patil
 
-# Atharva Patil
+### Software Engineer | Mobile Developer | Problem Solver
 
-**Computer Science Student • Research-Oriented Developer • Systems Thinker**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Scalable+Mobile+Applications;Python+%7C+Flutter+%7C+Cross-Platform+Dev;Open+to+Full-Time+Opportunities;Passionate+About+Clean+Code+%26+Architecture" alt="Typing SVG" />
 
-[Website](https://atharvapatil.dev) • [Research](https://scholar.google.com) • [LinkedIn](https://www.linkedin.com/in/atharvapatil31/) • [Email](mailto:atharvapatil.dsa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvapatil31/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@atharvapatil.dsa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvapatil.dsa@gmail.com)
 
 </div>
 
 ---
 
-## Research Interests
+## 🎯 About Me
 
-My work explores the intersection of **mobile systems, human-computer interaction, and civic technology**. I'm particularly interested in:
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Atharva Patil"
+        self.role = "Mobile & Backend Developer"
+        self.location = "India 🇮🇳"
+        self.languages = ["Python", "Dart", "JavaScript"]
+        self.interests = ["System Design", "Clean Architecture", "DSA"]
+        
+    def current_focus(self):
+        return [
+            "Mastering advanced Flutter patterns",
+            "Building production-ready mobile applications",
+            "Contributing to open-source projects",
+            "Preparing for FAANG interviews"
+        ]
+```
 
-- Scalable systems architecture for resource-constrained environments
-- User-centered design for public infrastructure applications  
-- Applied algorithms and data structures in real-world problem spaces
-- Open-source software development and collaborative engineering
-
-Currently building tools that bridge the gap between citizens and municipal governance, with a focus on accessibility and impact.
-
----
-
-## Selected Projects
-
-### [Civic Engagement Platform](https://github.com/Atharva-Patil/civic-platform)
-**Flutter • Firebase • Google Cloud Platform • REST APIs**
-
-A mobile-first platform enabling citizens to report and track municipal issues in real-time. Focuses on scalable backend architecture and intuitive UX design.
-
-- Implemented geospatial indexing for efficient issue tracking across 100+ municipalities
-- Designed RESTful API architecture handling 10K+ daily requests
-- Built real-time notification system using Firebase Cloud Messaging
-- Conducted user research with 200+ participants to optimize reporting flow
-
-**Impact:** Deployed in 3 pilot cities, 5000+ active users, 15K+ issues reported
-
----
-
-### [Algorithm Visualization Engine](https://github.com/Atharva-Patil/algo-viz)
-**Python • Flutter • Custom Rendering Engine**
-
-Interactive educational tool for visualizing complex algorithms and data structures. Designed to make CS education more accessible.
-
-- Developed custom rendering engine for step-by-step algorithm execution
-- Implemented 40+ classic algorithms (sorting, graph theory, dynamic programming)
-- Built adaptive learning system tracking user comprehension patterns
-- Published technical writeup on Medium (2K+ reads)
-
-**Recognition:** Featured on Flutter Community Newsletter
+- 🎓 Continuously learning software engineering fundamentals
+- 🚀 Building mobile-first solutions with Flutter & Firebase
+- 💡 Passionate about writing maintainable, scalable code
+- 📝 Sharing knowledge through technical articles on Medium
+- 🎯 **Open to opportunities** at product-based companies worldwide
 
 ---
 
-### [Distributed Systems Experiments](https://github.com/Atharva-Patil/distributed-systems)
-**Python • Docker • Kubernetes**
-
-Personal exploration of distributed computing concepts through hands-on implementations.
-
-- Built toy implementations of Raft consensus algorithm
-- Experimented with consistent hashing and load balancing strategies
-- Documented learnings on distributed databases and CAP theorem tradeoffs
-
----
-
-## Technical Background
-
-**Languages:** Python, Dart, JavaScript, SQL  
-**Frameworks:** Flutter, Flask, FastAPI  
-**Infrastructure:** Firebase, Supabase, PostgreSQL, Docker, Git  
-**Areas:** Mobile Development, Backend Systems, API Design, Data Structures & Algorithms
-
----
-
-## Open Source Contributions
-
-- **[Flutter](https://github.com/flutter/flutter)** - Documentation improvements, bug reports
-- **[Python](https://github.com/python)** - Minor contributions to standard library docs
-- Active in Flutter and Python developer communities
-
----
-
-## Writing & Teaching
-
-I write about software engineering, algorithms, and system design on [Medium](https://medium.com/@atharvapatil.dsa), where I've published technical articles read by 10K+ developers.
-
-**Recent Posts:**
-- "Understanding State Management in Flutter: A Deep Dive"
-- "Implementing LRU Cache: From Theory to Production"
-- "Graph Algorithms for Real-World Problems"
-
----
-
-## Academic Background & Goals
-
-**Current Focus:** Building strong fundamentals in computer science, mathematics, and software engineering through rigorous self-study and project-based learning.
-
-**Learning Path:**  
-- *Head First Python* (Advanced topics)
-- MIT OpenCourseWare: Algorithms & Data Structures  
-- Stanford CS106B: Programming Abstractions
-- System Design & Distributed Systems (self-study)
-
-**Aspirations:** Pursuing opportunities at institutions with strong CS programs (MIT, Stanford, CMU, Harvard) to deepen theoretical knowledge while continuing to build impactful software.
-
----
-
-## GitHub Statistics
+## 🛠️ Technical Stack
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Atharva-Patil&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Patil&layout=compact&theme=gruvbox&hide_border=true&langs_count=6" />
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend & Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 </div>
 
 ---
 
-## Contact
+## 📊 GitHub Analytics
 
-I'm always interested in discussing research ideas, collaboration opportunities, or just talking about interesting technical problems.
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Atharva-Patil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva-Patil&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+</div>
 
-**Email:** atharvapatil.dsa@gmail.com  
-**LinkedIn:** [linkedin.com/in/atharvapatil31](https://www.linkedin.com/in/atharvapatil31/)  
-**Location:** Pune, India
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Patil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| **[Civic Issue Reporter](https://github.com/Atharva-Patil/civic-app)** | Mobile app for citizen engagement and municipal issue reporting | Flutter, Firebase, Google Maps API | 🟢 Active |
+| **[LeetCode Visualizer](https://github.com/Atharva-Patil/leetcode-viz)** | Interactive DSA problem visualizer with solution tracking | Flutter, Python, REST APIs | 🟡 In Progress |
+| **[Python DSA Library](https://github.com/Atharva-Patil/python-dsa)** | Clean implementations of data structures and algorithms | Python | 🟢 Active |
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/Atharva-Patil?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+  </a>
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva-Patil&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+---
+
+## 💼 What I'm Looking For
+
+I'm actively seeking **full-time software engineering opportunities** where I can:
+
+- ✅ Build impactful products used by millions
+- ✅ Work with talented engineers and learn from the best
+- ✅ Contribute to challenging technical problems
+- ✅ Grow in areas like system design, scalability, and architecture
+
+**Interested in chatting?** Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/atharvapatil31/) or [email](mailto:atharvapatil.dsa@gmail.com).
 
 ---
 
 <div align="center">
 
-*"The best way to predict the future is to invent it."* — Alan Kay
+### 💭 Philosophy
+
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**Discipline** beats motivation. **Consistency** beats intensity. **Action** beats perfection.
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Atharva-Patil&color=3B82F6&style=for-the-badge)
+
+⭐️ From [Atharva-Patil](https://github.com/Atharva-Patil)
 
 </div>
