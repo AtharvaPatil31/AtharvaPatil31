@@ -111,16 +111,7 @@ class SoftwareEngineer:
 
 ---
 
-## 💼 What I'm Looking For
-
-I'm actively seeking **full-time software engineering opportunities** where I can:
-
-- ✅ Build impactful products used by millions
-- ✅ Work with talented engineers and learn from the best
-- ✅ Contribute to challenging technical problems
-- ✅ Grow in areas like system design, scalability, and architecture
-
-**Interested in chatting?** Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/atharvapatil31/) or [email](mailto:atharvapatil.dsa@gmail.com).
+**Interested in chatting?** Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/atharvapatil31/).
 
 ---
 
@@ -134,8 +125,6 @@ I'm actively seeking **full-time software engineering opportunities** where I ca
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Atharva-Patil&color=3B82F6&style=for-the-badge)
-
-⭐️ From [Atharva-Patil](https://github.com/Atharva-Patil)
+⭐️ From [Atharva-Patil](https://github.com/AtharvaPatil31)
 
 </div>
