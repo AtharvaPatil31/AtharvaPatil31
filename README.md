@@ -89,9 +89,9 @@ class SoftwareEngineer:
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **[Suraksha - Women's Safety App](https://github.com/AtharvaPatil31/suraksha_app)** | Mobile app for citizen engagement and municipal issue reporting | Flutter, Firebase, Google Maps API | 🟢 Active |
-| **[Sehat Sathi - Telemedicine App](https://github.com/AtharvaPatil31/Sehat_Sathi)** | Interactive DSA problem visualizer with solution tracking | Flutter, Python, REST APIs | 🟡 In Progress |
-| **[Spotify Clone - Music Streaming App](https://github.com/AtharvaPatil31/spotify)** | Clean implementations of data structures and algorithms | Python | 🟢 Active |
+| **[Suraksha - Women's Safety App](https://github.com/AtharvaPatil31/suraksha_app)** | A real-time emergency response app designed to enhance women’s safety. Includes one-tap SOS alerts, location sharing, trusted contacts, live GPS tracking, and incident reporting to authorities. | Flutter, Firebase, Figma, Google Maps API |
+| **[Sehat Sathi - Telemedicine App](https://github.com/AtharvaPatil31/Sehat_Sathi)** | A mobile platform connecting patients with healthcare professionals remotely, featuring appointment booking, symptom triage, and secure medical chat/video consultation. Built to improve accessibility to healthcare in remote regions. | Flutter, Python, AIML, Twilio, REST APIs |
+| **[Spotify Clone - Music Streaming App](https://github.com/AtharvaPatil31/spotify)** | A feature-rich music streaming application with playlists, search, track filtering, and immersive UI inspired by Spotify. Focused on replicating core UX & interactions of a modern audio platform. | Flutter, Figma, SupaBase, Twilio
 
 </div>
 
