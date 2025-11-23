@@ -26,7 +26,7 @@ class SoftwareEngineer:
         self.name = "Atharva Patil"
         self.role = "Mobile Developer | Python Developer"
         self.location = "India 🇮🇳"
-        self.languages = ["Python", "Dart", "C++","Java]
+        self.languages = ["Python", "Dart", "C++","Java"]
         self.interests = ["Clean BLOC Architecture", "DSA","Video Editing","Marketing"]
         
     def current_focus(self):
