@@ -4,7 +4,8 @@
 
 ### Software Engineer | Mobile Developer | Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Scalable+Mobile+Applications;Python+%7C+Flutter+%7C+Cross-Platform+Dev;Open+to+Full-Time+Opportunities;Passionate+About+Clean+Code+%26+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=620&lines=CSE+Undergrad+%7C+SPPU;Flutter+Developer+%7C+Python+Learner;AI%2FML+Enthusiast;Building+Cross-Platform+Apps;Integrating+AI+into+Mobile+Products;Passionate+About+Clean+Architecture;Preparing+for+FAANG+Interviews" alt="Typing SVG" />
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvapatil31/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@atharvapatil.dsa)
