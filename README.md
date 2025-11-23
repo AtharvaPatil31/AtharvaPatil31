@@ -23,25 +23,25 @@
 class SoftwareEngineer:
     def __init__(self):
         self.name = "Atharva Patil"
-        self.role = "Mobile & Backend Developer"
+        self.role = "Mobile Developer | Python Developer"
         self.location = "India 🇮🇳"
-        self.languages = ["Python", "Dart", "JavaScript"]
-        self.interests = ["System Design", "Clean Architecture", "DSA"]
+        self.languages = ["Python", "Dart", "C++","Java]
+        self.interests = ["Clean BLOC Architecture", "DSA","Video Editing","Marketing"]
         
     def current_focus(self):
         return [
-            "Mastering advanced Flutter patterns",
-            "Building production-ready mobile applications",
+            "Mastering Python step by step",
+            "Building production-ready Flutter apps",
             "Contributing to open-source projects",
-            "Preparing for FAANG interviews"
         ]
 ```
 
-- 🎓 Continuously learning software engineering fundamentals
-- 🚀 Building mobile-first solutions with Flutter & Firebase
-- 💡 Passionate about writing maintainable, scalable code
-- 📝 Sharing knowledge through technical articles on Medium
+- 🎓 Focused on mastering STEM by learning, building, and sharing my work consistently  
+- 🐍 Currently learning Python & diving deeper into AI/ML concepts  
+- 🚀 Building mobile-first solutions with Flutter  
+- 📝 Sharing knowledge through technical articles on Medium  
 - 🎯 **Open to opportunities** at product-based companies worldwide
+
 
 ---
 
@@ -53,7 +53,6 @@ class SoftwareEngineer:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend & Database
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -65,7 +64,6 @@ class SoftwareEngineer:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
@@ -91,9 +89,9 @@ class SoftwareEngineer:
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **[Civic Issue Reporter](https://github.com/Atharva-Patil/civic-app)** | Mobile app for citizen engagement and municipal issue reporting | Flutter, Firebase, Google Maps API | 🟢 Active |
-| **[LeetCode Visualizer](https://github.com/Atharva-Patil/leetcode-viz)** | Interactive DSA problem visualizer with solution tracking | Flutter, Python, REST APIs | 🟡 In Progress |
-| **[Python DSA Library](https://github.com/Atharva-Patil/python-dsa)** | Clean implementations of data structures and algorithms | Python | 🟢 Active |
+| **[Civic Issue Reporter](https://github.com/AtharvaPatil31/suraksha_app)** | Mobile app for citizen engagement and municipal issue reporting | Flutter, Firebase, Google Maps API | 🟢 Active |
+| **[LeetCode Visualizer](https://github.com/AtharvaPatil31/Sehat_Sathi)** | Interactive DSA problem visualizer with solution tracking | Flutter, Python, REST APIs | 🟡 In Progress |
+| **[Python DSA Library](https://github.com/AtharvaPatil31/spotify)** | Clean implementations of data structures and algorithms | Python | 🟢 Active |
 
 </div>
 
