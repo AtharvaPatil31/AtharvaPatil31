@@ -118,9 +118,9 @@ class SoftwareEngineer:
 
 ### 💭 Philosophy
 
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+> *"Stay Hungry Stay Foolish."* – Steve Jobs
 
-**Discipline** beats motivation. **Consistency** beats intensity. **Action** beats perfection.
+Don't stop when you're tired. Stop when you're done.
 
 ---
 
