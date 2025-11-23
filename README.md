@@ -96,7 +96,7 @@ class SoftwareEngineer:
 </div>
 
 <div align="center">
-  <a href="https://github.com/Atharva-Patil?tab=repositories">
+  <a href="https://github.com/AtharvaPatil31?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Projects-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
   </a>
 </div>
