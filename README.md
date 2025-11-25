@@ -94,19 +94,6 @@ class SoftwareEngineer:
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva-Patil&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
-**Interested in chatting?** Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/atharvapatil31/).
-
----
-
-<div align="center">
 
 ### 💭 Philosophy
 
