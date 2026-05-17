@@ -1,32 +1,34 @@
-<!-- M tri-color stripe -->
-![](https://capsule-render.vercel.app/api?type=rect&color=0:1a3a6e,33:1a3a6e,34:cc0000,66:cc0000,67:1a3a6e,100:1a3a6e&height=4&width=100%)
+<!-- Top Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b0f19,50:111827,100:1e3a8a&text=ATHARVA%20PATIL&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Flutter%20Developer%20•%20AI/ML%20Builder%20•%20Computer%20Engineer&descAlignY=58&animation=fadeIn" width="100%"/>
+</p>
 
-# Atharva Patil
-`FLUTTER` · `PYTHON` · `AI/ML` · Pune, India
+<div align="center">
 
-Third-year Computer Engineering student at SPPU. I build cross-platform mobile apps with Flutter — focused on clean architecture and real-world product quality.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+real-world+mobile+products+with+Flutter;Exploring+AI%2FML%2C+systems+design+%26+scalable+architecture;Creating+technology+that+solves+human+problems;Open+to+global+internships+and+collaborations)](https://git.io/typing-svg)
 
-Exploring AI/ML and systems design. Open to internships worldwide.
-
----
-
-**Powertrain**
-
-`Flutter` `Dart` `Python` `Java` `C++` `Firebase` `Supabase` `PostgreSQL` `MongoDB` `Figma`
+</div>
 
 ---
 
-**Lap records**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-**Plantlers** — Plant e-commerce app. Google/Apple auth, wishlist, loyalty programme, push notifications.
+```yaml
+Name: Atharva Patil
+Location: Pune, Maharashtra, India
+Education: B.E. Computer Engineering (SPPU)
 
-**Suraksha** — Women's safety app. SOS alerts, live GPS tracking, trusted contacts, incident reporting.
+Current Focus:
+  - Flutter App Development
+  - AI/ML Systems
+  - Backend Architecture
+  - Product Engineering
 
-**Sehat Sathi** — Telemedicine platform. Appointment booking, AI triage, secure video consultations.
+Interests:
+  - Building scalable digital products
+  - Civic-tech and social impact systems
+  - AI-powered applications
+  - Human-centered technology
 
-**Spotify Clone** — Music streaming UI. Playlists, filtering, and animations built with Flutter + Supabase.
-
-<!-- M tri-color stripe -->
-![](https://capsule-render.vercel.app/api?type=rect&color=0:1a3a6e,33:1a3a6e,34:cc0000,66:cc0000,67:1a3a6e,100:1a3a6e&height=4&width=100%)
-
-*Freude am Fahren* &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/atharvapatil31/) · [Medium](https://medium.com/@atharvapatil.dsa) · [Portfolio](https://atharvapatil31.github.io)
+Goal:
+  - Engineer products used by millions
