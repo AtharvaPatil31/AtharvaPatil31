@@ -103,39 +103,6 @@ Music streaming UI with playlists, filtering, and immersive animations.
 
 <br>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AtharvaPatil31/AtharvaPatil31/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AtharvaPatil31&theme=flat&no-frame=true&row=1&column=7&title_color=000000&text_color=555555"/>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## Learning
-
-```
-Python Fundamentals          ████████░░  ongoing
-Flutter Clean Architecture   ████████░░  ongoing
-BLoC State Management        ███████░░░  ongoing
-Data Structures & Algorithms ██████░░░░  ongoing
-AI/ML Concepts               █████░░░░░  ongoing
-Backend Integration          ███████░░░  ongoing
-```
-
-<br>
-
 ---
 
 <br>
