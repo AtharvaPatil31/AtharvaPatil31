@@ -1,122 +1,248 @@
-<!-- M tri-color stripe -->
-![](https://capsule-render.vercel.app/api?type=rect&color=0:1a3a6e,33:1a3a6e,34:cc0000,66:cc0000,67:1a3a6e,100:1a3a6e&height=4&width=100%)
+<!-- Animated Hero Banner -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0b0f19,25:1a3a6e,50:111111,75:cc0000,100:1a3a6e&text=ATHARVA%20PATIL&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Flutter%20Developer%20•%20AI/ML%20Engineer%20•%20Product%20Builder&descAlignY=58&animation=fadeIn" width="100%"/>
+</p>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=1A3A6E&center=true&vCenter=true&width=1000&lines=Building+production-grade+Flutter+applications;Exploring+AI%2FML+and+scalable+systems;Turning+ideas+into+real-world+products;Open+to+global+internships+and+collaborations)](https://git.io/typing-svg)
+
+</div>
+
+---
 
 <div align="center">
 
 # Atharva Patil
 
-`FLUTTER` &nbsp;·&nbsp; `PYTHON` &nbsp;·&nbsp; `AI/ML` &nbsp;·&nbsp; Pune, India 🇮🇳
+<img src="https://img.shields.io/badge/FLUTTER-1a3a6e?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-111111?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FML-cc0000?style=for-the-badge&logo=openai&logoColor=white"/>
 
-Third-year Computer Engineering student at SPPU. Building cross-platform mobile apps with Flutter — clean architecture, real-world quality.
-Exploring AI/ML and systems design. Open to internships worldwide.
+<br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a3a6e?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvapatil31/)
-[![Medium](https://img.shields.io/badge/Medium-111111?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@atharvapatil.dsa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-cc0000?style=flat-square&logo=firefox&logoColor=white)](https://atharvapatil31.github.io)
+<img src="https://komarev.com/ghpvc/?username=AtharvaPatil31&label=Profile+Views&color=cc0000&style=flat-square"/>
 
 </div>
 
 ---
 
-## Powertrain
+# About Me
 
-![Flutter](https://img.shields.io/badge/Flutter-1a3a6e?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-1a3a6e?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1a3a6e?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-1a3a6e?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1a3a6e?style=flat-square&logo=cplusplus&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-cc0000?style=flat-square&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-cc0000?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-cc0000?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-cc0000?style=flat-square&logo=mongodb&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white)
+```yaml
+Name: Atharva Patil
+Location: Pune, Maharashtra, India
+Education: Third-Year Computer Engineering Student (SPPU)
+
+Currently Building:
+  - Cross-platform Flutter apps
+  - AI-powered systems
+  - Scalable backend architectures
+  - Real-world production-grade products
+
+Focus Areas:
+  - Mobile Engineering
+  - Artificial Intelligence
+  - Product Design
+  - System Architecture
+
+Mission:
+  - Build technology that impacts millions
+```
 
 ---
 
-## Lap Records
+# Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,java,cpp,firebase,supabase,mongodb,postgres,git,github,figma,vscode,androidstudio,tensorflow&theme=dark" />
+
+</div>
+
+---
+
+# Current Engineering Focus
+
+<div align="center">
+
+| Domain | Focus |
+|---|---|
+| Mobile Development | Flutter Clean Architecture |
+| AI/ML | Intelligent Systems |
+| Backend | APIs & Scalable Infrastructure |
+| Databases | PostgreSQL & MongoDB |
+| Product Engineering | UX + Performance |
+
+</div>
+
+---
+
+# Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌿 Plantlers
-> Plant e-commerce app
+## 🛡️ Suraksha
 
-Google/Apple auth, wishlist, loyalty programme, push notifications, and premium UI/UX.
+### Women's Safety Ecosystem
 
-![Flutter](https://img.shields.io/badge/Flutter-1a3a6e?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-cc0000?style=flat-square&logo=firebase&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-1a3a6e?style=flat-square&logo=dart&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white)
+🚨 SOS emergency alerts  
+📍 Live GPS tracking  
+👥 Trusted contacts  
+📢 Incident reporting  
 
-[![Repo](https://img.shields.io/badge/View_Repo-1a3a6e?style=flat-square&logo=github&logoColor=white)](https://github.com/AtharvaPatil31/plantlers)
+<img src="https://skillicons.dev/icons?i=flutter,firebase,dart"/>
+
+<br>
+
+<a href="https://github.com/AtharvaPatil31/suraksha_app">
+<img src="https://img.shields.io/badge/View_Project-1a3a6e?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
 <td width="50%">
 
-### 🛡️ Suraksha
-> Women's safety app
+## 🌱 Plantlers
 
-SOS alerts, live GPS tracking, trusted contacts, and incident reporting.
+### Premium Plant Commerce App
 
-![Flutter](https://img.shields.io/badge/Flutter-1a3a6e?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-cc0000?style=flat-square&logo=firebase&logoColor=white)
-![Maps](https://img.shields.io/badge/Google_Maps-111111?style=flat-square&logo=googlemaps&logoColor=white)
+🛒 Modern e-commerce flow  
+💎 Loyalty programme  
+🔔 Push notifications  
+❤️ Wishlist management  
 
-[![Repo](https://img.shields.io/badge/View_Repo-1a3a6e?style=flat-square&logo=github&logoColor=white)](https://github.com/AtharvaPatil31/suraksha_app)
+<img src="https://skillicons.dev/icons?i=flutter,firebase,dart,figma"/>
+
+<br>
+
+<a href="https://github.com/AtharvaPatil31/plantlers">
+<img src="https://img.shields.io/badge/View_Project-cc0000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### 🩺 Sehat Sathi
-> Telemedicine platform
+## 🩺 Sehat Sathi
 
-Appointment booking, AI-assisted triage, secure consultations, and video calling.
+### AI Healthcare Platform
 
-![Flutter](https://img.shields.io/badge/Flutter-1a3a6e?style=flat-square&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-cc0000?style=flat-square&logo=python&logoColor=white)
-![AIML](https://img.shields.io/badge/AI/ML-cc0000?style=flat-square&logo=openai&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-111111?style=flat-square&logo=fastapi&logoColor=white)
+🤖 AI-assisted triage  
+📅 Appointment booking  
+📹 Secure consultations  
+🏥 Smart healthcare workflow  
 
-[![Repo](https://img.shields.io/badge/View_Repo-1a3a6e?style=flat-square&logo=github&logoColor=white)](https://github.com/AtharvaPatil31/Sehat_Sathi)
+<img src="https://skillicons.dev/icons?i=flutter,python,supabase"/>
+
+<br>
+
+<a href="https://github.com/AtharvaPatil31/Sehat_Sathi">
+<img src="https://img.shields.io/badge/View_Project-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
 <td width="50%">
 
-### 🎵 Spotify Clone
-> Music streaming UI
+## 🎵 Spotify Clone
 
-Playlists, filtering, immersive animations, and sleek user experience.
+### Music Streaming Experience
 
-![Flutter](https://img.shields.io/badge/Flutter-1a3a6e?style=flat-square&logo=flutter&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-cc0000?style=flat-square&logo=supabase&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white)
+🎶 Playlist system  
+✨ Fluid animations  
+📱 Modern responsive UI  
+🎧 Immersive experience  
 
-[![Repo](https://img.shields.io/badge/View_Repo-1a3a6e?style=flat-square&logo=github&logoColor=white)](https://github.com/AtharvaPatil31/spotify)
+<img src="https://skillicons.dev/icons?i=flutter,supabase,dart"/>
+
+<br>
+
+<a href="https://github.com/AtharvaPatil31/spotify">
+<img src="https://img.shields.io/badge/View_Project-1a3a6e?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## Telemetry
+# GitHub Analytics
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AtharvaPatil31&show_icons=true&theme=dark&hide_border=true&title_color=cc0000&icon_color=1a3a6e&bg_color=0d1117&text_color=888888)
-&nbsp;
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaPatil31&layout=compact&theme=dark&hide_border=true&title_color=cc0000&bg_color=0d1117&text_color=888888)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtharvaPatil31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=cc0000&icon_color=1a3a6e"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaPatil31&theme=tokyonight&hide_border=true&background=0d1117&ring=cc0000&fire=cc0000&currStreakLabel=1a3a6e"/>
 
 </div>
 
-<!-- M tri-color stripe -->
-![](https://capsule-render.vercel.app/api?type=rect&color=0:1a3a6e,33:1a3a6e,34:cc0000,66:cc0000,67:1a3a6e,100:1a3a6e&height=4&width=100%)
+---
+
+# Contribution Activity
 
 <div align="center">
 
-*Freude am Fahren*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaPatil31&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
+
+---
+
+# Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AtharvaPatil31&theme=darkhub&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/atharvapatil31/">
+<img src="https://img.shields.io/badge/LinkedIn-1a3a6e?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@atharvapatil.dsa">
+<img src="https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://atharvapatil31.github.io">
+<img src="https://img.shields.io/badge/Portfolio-cc0000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Email-1a3a6e?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# Philosophy
+
+<div align="center">
+
+> ### *“Technology should feel invisible and impact should feel massive.”*
+
+</div>
+
+---
+
+<!-- Animated Footer -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1a3a6e,50:111111,100:cc0000"/>
+</p>
