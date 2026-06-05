@@ -1,14 +1,26 @@
 # Hi there 👋, I'm Atharva Patil
 
-### Flutter Developer • Mobile App Builder • CSE Student
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=24\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=700\&lines=Flutter+Developer+🚀;AI%2FML+Enthusiast+🤖;CSE+Undergraduate+🎓;Building+Apps+That+Solve+Real+Problems)](https://git.io/typing-svg)
 
-🚀 Passionate about building mobile applications that solve real-world problems.
+---
 
-💡 Currently working on:
+### 🚀 About Me
 
-* Civic Issue Reporting App
-* LeetCode Visualization Platform
-* AI/ML Projects for Smart India Hackathon
+* 📱 Flutter Developer passionate about mobile-first products
+* 🤖 Exploring AI/ML and intelligent systems
+* 🎓 Third-Year CSE Undergraduate
+* 🌱 Currently learning Python, Machine Learning, and German
+* 💡 Building projects that solve real-world problems
+
+---
+
+## 💼 Experience
+
+🔹 Flutter Developer Intern — *Company Name*
+
+🔹 Data Analyst Intern — *Company Name*
+
+🔹 Delegate — Harvard Project for Asian and International Relations (HPAIR) 2026
 
 ---
 
@@ -25,24 +37,23 @@
 
 ## 📊 GitHub Stats
 
-![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvaPatil31\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtharvaPatil31\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaPatil31\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 🔥 Contribution Graph
+## 🔥 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AtharvaPatil31\&theme=react-dark\&color=58A6FF\&line=58A6FF\&point=58A6FF)
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Working On
 
-* Advanced Flutter
-* Python
-* Machine Learning
-* German Language 🇩🇪
+* Civic Issue Reporting App
+* LeetCode Visualization Platform
+* AI/ML Projects for Smart India Hackathon
 
 ---
 
