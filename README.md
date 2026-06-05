@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Atharva Patil</h1>
 
 <p align="center">
@@ -186,7 +186,6 @@
 </a>
 </p>
 
----
 
 <div align="center">
 
