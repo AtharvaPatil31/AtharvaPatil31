@@ -39,7 +39,6 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
----
 
 ## 🚀 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
 
@@ -49,8 +48,6 @@
 | 🏥 Sehat Sathi                                    | Telemedicine Platform with AI-powered features                       | [View Repo](https://github.com/AtharvaPatil31/Sehat_Sathi) |
 | 🛡️ Suraksha | Women Safety App with SOS alerts, live location sharing, emergency contacts, route tracking, and safety zone reporting | [View Repo](https://github.com/AtharvaPatil31/suraksha_app)   |
 
-
----
 
 ## 💼 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆
 
@@ -76,7 +73,6 @@
 
 * Trained in Machine Learning concepts including K-Means, KNN, Regression and Classification.
 
----
 
 ## 🏆 𝑨𝒄𝒉𝒊𝒆𝒗𝒆𝒎𝒆𝒏𝒕𝒔
 
@@ -86,7 +82,6 @@
 
 📈 MHT-CET 95.73 Percentile
 
----
 
 ## 📈 𝑮𝒊𝒕𝑯𝒖𝒃 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚
 
@@ -94,7 +89,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaPatil31&theme=tokyo-night&hide_border=true" />
 </p>
 
----
 
 ## 🌱 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈
 
