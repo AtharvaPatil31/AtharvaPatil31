@@ -53,7 +53,7 @@
 
 ### Flutter Developer Intern | TheCodersHub
 
-📅 Dec 2025 – Mar 2026
+🗓 Dec 2025 – Mar 2026
 
 * Developed and enhanced real-world Flutter applications.
 * Contributed to feature development and UI improvements.
