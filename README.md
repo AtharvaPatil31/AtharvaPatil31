@@ -15,32 +15,6 @@
 
 ---
 
-## 💼 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆
-
-### Flutter Developer Intern | TheCodersHub
-
-📅 Dec 2025 – Mar 2026
-
-* Developed and enhanced real-world Flutter applications.
-* Contributed to feature development and UI improvements.
-* Worked in Agile/Scrum teams.
-* Used GitHub and Odoo for project management and version control.
-
-### Artificial Intelligence & Data Analytics Intern | Edunet Foundation × AICTE
-
-📅 Jan 2025 – Feb 2025
-
-* Developed a Power BI dashboard for sustainable supply chain analytics.
-* Worked on AI and Data Analytics concepts through practical projects.
-
-### Intel Unnati Program Participant | Intel Corporation
-
-📅 Jun 2025
-
-* Trained in Machine Learning concepts including K-Means, KNN, Regression and Classification.
-
----
-
 ## 🛠️ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
 
 </p>
@@ -78,7 +52,31 @@
 | 🛡️ Suraksha | Women Safety App with SOS alerts, live location sharing, emergency contacts, route tracking, and safety zone reporting | [View Repo](https://github.com/AtharvaPatil31/suraksha_app)   |
 
 
+---
 
+## 💼 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆
+
+### Flutter Developer Intern | TheCodersHub
+
+📅 Dec 2025 – Mar 2026
+
+* Developed and enhanced real-world Flutter applications.
+* Contributed to feature development and UI improvements.
+* Worked in Agile/Scrum teams.
+* Used GitHub and Odoo for project management and version control.
+
+### Artificial Intelligence & Data Analytics Intern | Edunet Foundation × AICTE
+
+📅 Jan 2025 – Feb 2025
+
+* Developed a Power BI dashboard for sustainable supply chain analytics.
+* Worked on AI and Data Analytics concepts through practical projects.
+
+### Intel Unnati Program Participant | Intel Corporation
+
+📅 Jun 2025
+
+* Trained in Machine Learning concepts including K-Means, KNN, Regression and Classification.
 
 ---
 
