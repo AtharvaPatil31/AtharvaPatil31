@@ -149,7 +149,7 @@
 
 📧 Email: [atharvadp31@gmail.com](mailto:atharvadp31@gmail.com)
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
+💼 LinkedIn: https://www.linkedin.com/in/atharvapatil31
 
 🐙 GitHub: https://github.com/AtharvaPatil31
 
