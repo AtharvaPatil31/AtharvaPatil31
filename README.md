@@ -117,6 +117,6 @@
 
 ### 💭 𝑸𝒖𝒐𝒕𝒆
 
-*"Building today, learning forever."*
+*"Stay Hungry Stay Foolish - Steve Jobs."*
 
 </div>
