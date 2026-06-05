@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Flutter+Developer;AI%2FML+Enthusiast;Harvard+HPAIR+2026+Delegate;Building+Apps+That+Solve+Real+Problems;Computer+Engineering+Undergraduate" />
 </p>
 
-## 😁 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
+## 😎 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
 
 * 📱 Flutter Developer passionate about building scalable mobile applications.
 * 🤖 AI/ML Enthusiast exploring intelligent systems and real-world applications.
