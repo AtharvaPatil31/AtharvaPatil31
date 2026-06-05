@@ -62,14 +62,14 @@
 
 ### Artificial Intelligence & Data Analytics Intern | Edunet Foundation × AICTE
 
-📅 Jan 2025 – Feb 2025
+🗓 Jan 2025 – Feb 2025
 
 * Developed a Power BI dashboard for sustainable supply chain analytics.
 * Worked on AI and Data Analytics concepts through practical projects.
 
 ### Intel Unnati Program Participant | Intel Corporation
 
-📅 Jun 2025
+🗓 Jun 2025
 
 * Trained in Machine Learning concepts including K-Means, KNN, Regression and Classification.
 
