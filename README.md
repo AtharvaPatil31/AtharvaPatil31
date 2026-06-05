@@ -80,7 +80,7 @@
 
 🏅 Oracle Certified Foundations Associate
 
-📈 MHT-CET 95.73 Percentile
+🎖 MHT-CET 95.73 Percentile
 
 
 ## 📈 𝑮𝒊𝒕𝑯𝒖𝒃 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚
