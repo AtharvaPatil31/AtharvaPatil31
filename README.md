@@ -6,7 +6,7 @@
 </p>
 
 
-## 🚀 𝘼𝘽𝙊𝙐𝙏 𝙈𝙀
+## 🚀 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚
 
 - 📱 Flutter Developer passionate about building scalable mobile applications.
 - 🤖 AI/ML Enthusiast exploring intelligent systems and real-world applications.
@@ -17,7 +17,7 @@
 
 ---
 
-## 💼 Experience
+## 💼 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆
 
 ### Flutter Developer Intern | TheCodersHub
 📅 Dec 2025 – Mar 2026
@@ -45,7 +45,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
 
 ### Languages
 
@@ -76,7 +76,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
 
 ### 🌿 Plantlers — Plant E-Commerce App
 
