@@ -1,16 +1,22 @@
-## Hi there 👋
+## hi there 👋
 
-<!--
-**AtharvaPatil31/AtharvaPatil31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**i'm Atharva Patil** — Flutter developer, mobile-first builder.
 
-Here are some ideas to get you started:
+<!-- typing effect via shields.io animated badge isn't possible in markdown, so we use a clean static intro -->
+> crafting smooth app experiences with Flutter & Dart.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![status](https://img.shields.io/badge/status-currently%20building-5DCAA5?style=flat&labelColor=eeeeee)
+
+---
+
+**tools i reach for**
+
+`Flutter` `Dart` `Firebase` `REST APIs` `Git` `Figma`
+
+---
+
+📫 reach me at: *your@email.com*
+&nbsp;&nbsp;|&nbsp;&nbsp;
+🔗 [LinkedIn](#)
+&nbsp;&nbsp;|&nbsp;&nbsp;
+🐙 [GitHub](https://github.com/AtharvaPatil31)
