@@ -96,7 +96,7 @@ Community-driven platform for reporting civic issues with image uploads and geot
 ## 📈 𝑮𝒊𝒕𝑯𝒖𝒃 𝑰𝒏𝒔𝒊𝒈𝒉𝒕𝒔
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaPatil31&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaPatil31&theme=tokyonight"/>
 </p>
 
 <p align="center">
