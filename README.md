@@ -6,7 +6,7 @@
 </p>
 
 
-## 🚀 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚
+## 🚀 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
 
 - 📱 Flutter Developer passionate about building scalable mobile applications.
 - 🤖 AI/ML Enthusiast exploring intelligent systems and real-world applications.
