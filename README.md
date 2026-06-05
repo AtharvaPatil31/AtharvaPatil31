@@ -94,7 +94,6 @@
 
 * Advanced Flutter Development
 * Machine Learning
-* Python
 
 
 ## 📫 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝑾𝒊𝒕𝒉 𝑴𝒆
