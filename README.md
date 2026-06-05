@@ -72,7 +72,7 @@
 | Project                       | Description                                                          | Repository                                                           |
 | ----------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | 🌿 Plantlers                  | Plant E-Commerce Application built with Flutter & Clean Architecture | [View Repo](https://github.com/AtharvaPatil31/Plantlers)   |
-| 🏥 Sehat Sathi                | Telemedicine Platform with AI-powered features                       | [View Repo](https://github.com/AtharvaPatil31/Sehat_Sathi) |
+| 🏥 Sehat Sathi                                    | Telemedicine Platform with AI-powered features                       | [View Repo](https://github.com/AtharvaPatil31/Sehat_Sathi) |
 | 🛡️ Suraksha | Women Safety App with SOS alerts, live location sharing, emergency contacts, route tracking, and safety zone reporting | [View Repo](https://github.com/AtharvaPatil31/suraksha_app)   |
 
 
