@@ -1,4 +1,4 @@
-<h1 align="center">Hello 🌎 I'm Atharva!</h1>
+<h1 align="center">Hello 🌎 I'm Atharva! 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴</h1>
 
 
 <p align="center">
