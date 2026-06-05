@@ -72,7 +72,7 @@
 | Project                       | Description                                                          | Repository                                                           |
 | ----------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | 🌿 Plantlers                  | Plant E-Commerce Application built with Flutter & Clean Architecture | [View Repo](https://github.com/AtharvaPatil31/Plantlers)   |
-| 🏥 Sehat Sathi                | Telemedicine Platform with AI-powered features                       | [View Repo](https://github.com/AtharvaPatil31/YOUR_SEHAT_SATHI_REPO) |
+| 🏥 Sehat Sathi                | Telemedicine Platform with AI-powered features                       | [View Repo](https://github.com/AtharvaPatil31/Sehat_Sathi) |
 | 🏙️ Civic Issue Reporting App | Community-driven civic issue reporting platform                      | [View Repo](https://github.com/AtharvaPatil31/YOUR_CIVIC_APP_REPO)   |
 
 ---
