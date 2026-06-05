@@ -1,7 +1,8 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Atharva Patil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Flutter+Developer;AI%2FML+Enthusiast;Harvard+HPAIR+2026+Delegate;Building+Apps+That+Solve+Real+Problems;Computer+Engineering+Undergraduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Flutter+Developer;AI%2FML+Enthusiast;Harvard+HPAIR+2026+Delegate;Building+Apps+That+Solve+Real+Problems;Computer+Engineering+Undergraduate" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,9 +14,9 @@
 ## 🚀 About Me
 
 - 📱 Flutter Developer passionate about building scalable mobile applications.
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🤖 AI/ML Enthusiast exploring intelligent systems and real-world applications.
 - 🎓 Computer Engineering Undergraduate at MMCOE, Pune.
-- 🌱 Currently learning Python, Machine Learning, and German.
+- 🌱 Currently learning Machine Learning, Python, and German.
 - 💡 Love building products that solve real-world problems.
 - 🏆 Harvard HPAIR 2026 Delegate.
 
@@ -24,28 +25,28 @@
 ## 💼 Experience
 
 ### Flutter Developer Intern | TheCodersHub
-**Dec 2025 – Mar 2026**
+📅 Dec 2025 – Mar 2026
 
 - Developed and enhanced real-world Flutter applications.
 - Contributed to feature development and UI improvements.
 - Worked in Agile/Scrum teams.
-- Used GitHub and Odoo for project management.
+- Used GitHub and Odoo for project management and version control.
 
 ### Artificial Intelligence & Data Analytics Intern | Edunet Foundation × AICTE
-**Jan 2025 – Feb 2025**
+📅 Jan 2025 – Feb 2025
 
 - Developed a Power BI dashboard for sustainable supply chain analytics.
 - Worked on AI and Data Analytics concepts through practical projects.
 
 ### Intel Unnati Program Participant | Intel Corporation
-**Jun 2025**
+📅 Jun 2025
 
 - Trained in Machine Learning concepts:
   - K-Means Clustering
   - KNN
   - Regression
   - Classification
-- Built and evaluated ML models.
+- Built and evaluated machine learning models.
 
 ---
 
@@ -76,20 +77,20 @@
 ### AI / ML
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌿 Plantlers – Plant E-Commerce App
+### 🌿 Plantlers — Plant E-Commerce App
 
 - Flutter + Clean Architecture + BLoC
 - Dynamic Cart Management
 - Responsive UI
 - Production-Ready Architecture
 
-### 🏥 Sehat Sathi – Telemedicine App
+### 🏥 Sehat Sathi — Telemedicine App
 
 - Flutter + Supabase
 - Authentication System
@@ -132,10 +133,30 @@
 
 ---
 
+## 📈 Contribution Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaPatil31&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtharvaPatil31&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtharvaPatil31&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtharvaPatil31&theme=tokyonight" />
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AtharvaPatil31&theme=algolia&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AtharvaPatil31&theme=algolia&no-frame=true&margin-w=15&row=2&column=4" />
 </p>
 
 ---
@@ -151,14 +172,27 @@
 
 ## 📫 Connect With Me
 
-📧 Email: atharvadp31@gmail.com
+<p align="left">
+<a href="https://www.linkedin.com/in/atharvapatil31">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-💼 LinkedIn: https://www.linkedin.com/in/atharvapatil31
+<a href="mailto:atharvadp31@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🐙 GitHub: https://github.com/AtharvaPatil31
+<a href="https://github.com/AtharvaPatil31">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-<p align="center">
-  <i>"Building today, learning forever."</i>
-</p>
+<div align="center">
+
+### 💭 Quote of the Day
+
+*"Building today, learning forever."*
+
+</div>
+```
