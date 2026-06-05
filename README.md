@@ -76,9 +76,9 @@
 
 ## 🏆 𝑨𝒄𝒉𝒊𝒆𝒗𝒆𝒎𝒆𝒏𝒕𝒔
 
-🥇 Harvard HPAIR 2026 Delegate
+🎖 Harvard HPAIR 2026 Delegate
 
-🏅 Oracle Certified Foundations Associate
+🎖 Oracle Certified Foundations Associate
 
 🎖 MHT-CET 95.73 Percentile
 
