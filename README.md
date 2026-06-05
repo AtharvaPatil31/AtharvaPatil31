@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Atharva Patil</h1>
+<h1 align="center">Hello World! 👋 Atharva this side</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Flutter+Developer;AI%2FML+Enthusiast;Harvard+HPAIR+2026+Delegate;Building+Apps+That+Solve+Real+Problems;Computer+Engineering+Undergraduate" alt="Typing SVG" />
