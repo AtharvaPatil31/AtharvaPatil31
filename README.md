@@ -1,10 +1,13 @@
+
 <h1 align="center">Hello 🌎 I'm Atharva!</h1>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Flutter+Developer;AI%2FML+Enthusiast;Harvard+HPAIR+2026+Delegate;Building+Apps+That+Solve+Real+Problems;Computer+Engineering+Undergraduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Flutter+Developer;AI%2FML+Enthusiast;Harvard+HPAIR+2026+Delegate;Building+Apps+That+Solve+Real+Problems;Computer+Engineering+Undergraduate" />
 </p>
 
+<p align="center">
+  <img src="YOUR_RADAR_CARD_IMAGE_URL" width="220"/>
+</p>
 
 ## 🚀 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
 
@@ -36,12 +39,7 @@
 ### Intel Unnati Program Participant | Intel Corporation
 📅 Jun 2025
 
-- Trained in Machine Learning concepts:
-  - K-Means Clustering
-  - KNN
-  - Regression
-  - Classification
-- Built and evaluated machine learning models.
+- Trained in Machine Learning concepts including K-Means, KNN, Regression and Classification.
 
 ---
 
@@ -57,7 +55,7 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### Backend & Databases
+### Backend & Database
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -69,66 +67,35 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### AI / ML
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 ---
 
 ## 🚀 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
 
-### 🌿 Plantlers — Plant E-Commerce App
+### 🌿 Plantlers
 
-- Flutter + Clean Architecture + BLoC
-- Dynamic Cart Management
-- Responsive UI
-- Production-Ready Architecture
+Plant E-Commerce application built using Flutter and Clean Architecture.
 
-### 🏥 Sehat Sathi — Telemedicine App
+### 🏥 Sehat Sathi
 
-- Flutter + Supabase
-- Authentication System
-- AI Chatbot Integration
-- Video Consultations
-- Medicine Availability Tracker
+Telemedicine platform featuring authentication, AI chatbot integration and medicine tracking.
 
 ### 🏙️ Civic Issue Reporting App
 
-- Flutter + Firebase
-- Image Upload & Geotagging
-- Community Issue Reporting Platform
+Community-driven platform for reporting civic issues with image uploads and geotagging.
 
 ---
 
-## 🏆 Achievements
+## 🏆 𝑨𝒄𝒉𝒊𝒆𝒗𝒆𝒎𝒆𝒏𝒕𝒔
 
 🥇 Harvard HPAIR Conference 2026 Delegate
 
 🏅 Oracle Certified Foundations Associate
 
-📈 MHT-CET 95.73 Percentile (Top 4%)
+📈 MHT-CET 95.73 Percentile
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AtharvaPatil31&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaPatil31&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AtharvaPatil31&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Insights
+## 📈 𝑮𝒊𝒕𝑯𝒖𝒃 𝑰𝒏𝒔𝒊𝒈𝒉𝒕𝒔
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaPatil31&theme=tokyonight" />
@@ -138,25 +105,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtharvaPatil31&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtharvaPatil31&theme=tokyonight&utcOffset=5.5" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtharvaPatil31&theme=tokyonight" />
-</p>
-
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AtharvaPatil31&theme=algolia&no-frame=true&margin-w=15&row=2&column=4" />
-</p>
-
----
-
-## 🌱 Currently Learning
+## 🌱 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈
 
 - Advanced Flutter Development
 - Machine Learning
@@ -165,7 +116,7 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝑾𝒊𝒕𝒉 𝑴𝒆
 
 <p align="left">
 <a href="https://www.linkedin.com/in/atharvapatil31">
@@ -181,12 +132,10 @@
 </a>
 </p>
 
-
 <div align="center">
 
-### 💭 Quote of the Day
+### 💭 Quote
 
 *"Building today, learning forever."*
 
 </div>
-```
