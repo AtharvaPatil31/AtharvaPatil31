@@ -29,7 +29,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=333333)
 
 ### Architecture & State Management
-![Clean](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
+![Clean](https://img.shields.io/badge/Clean-000000?style=for-the-badge)
 ![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge)
 
 
