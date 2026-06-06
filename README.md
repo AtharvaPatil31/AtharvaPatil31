@@ -15,7 +15,7 @@
 
 </p>
 
-## 🛠️ Tech Stack
+## 🛠️ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
 
 ### Programming Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
