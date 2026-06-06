@@ -13,8 +13,6 @@
 * 💡 Love building products that solve real-world problems.
 * 🏆 Harvard HPAIR 2026 Delegate.
 
-## 🛠️ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
-
 </p>
 
 ## 🛠️ Tech Stack
