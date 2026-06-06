@@ -26,7 +26,9 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
 
-### Architecture & State Management ![BLoC](https://img.shields.io/badge/BLoC_State_Management-02569B?style=for-the-badge) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture_Principles-000000?style=for-the-badge)
+### Architecture & State Management 
+![BLoC](https://img.shields.io/badge/BLoC_State_Management-02569B?style=for-the-badge) 
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture_Principles-000000?style=for-the-badge)
 
 
 ### Backend
