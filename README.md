@@ -9,7 +9,7 @@
 * 📱 Flutter Developer passionate about building scalable mobile applications.
 * 🤖 AI/ML Enthusiast exploring intelligent systems and real-world applications.
 * 🎓 Computer Engineering Undergraduate at MMCOE, Pune.
-* 🌱 Currently learning Python and Machine Learning.
+* 🌱 Currently learning Machine Learning and Advanced Flutter Development
 * 💡 Love building products that solve real-world problems.
 * 🏆 Harvard HPAIR 2026 Delegate.
 
@@ -61,7 +61,7 @@
 | ----------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | 🌿 Plantlers                  | Plant E-Commerce Application built with Flutter & Clean Architecture | [View Repo](https://github.com/AtharvaPatil31/Plantlers)   |
 | 🏥 Sehat Sathi                                    | Telemedicine Platform with AI-powered features                       | [View Repo](https://github.com/AtharvaPatil31/Sehat_Sathi) |
-| 🛡️ Suraksha | Women Safety App with SOS alerts, live location sharing, emergency contacts, route tracking, and safety zone reporting | [View Repo](https://github.com/AtharvaPatil31/suraksha_app)   |
+| 🛡️ Suraksha | Women Safety App with SOS alerts, live location, emergency contacts, and safety zones | [View Repo](https://github.com/AtharvaPatil31/suraksha_app)   |
 
 
 ## 💼 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆
@@ -84,7 +84,7 @@
 
 ### Intel Unnati Program Participant | Intel Corporation
 
-🗓 Jun 2025
+🗓 Jun 2025 – Jul 2025
 
 * Trained in Machine Learning concepts including K-Means, KNN, Regression and Classification.
 
@@ -103,13 +103,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaPatil31&theme=tokyo-night&hide_border=true" />
 </p>
-
-
-## 🌱 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈
-
-* Advanced Flutter Development
-* Machine Learning
-
 
 ## 📫 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝑾𝒊𝒕𝒉 𝑴𝒆
 
