@@ -26,6 +26,7 @@
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Architecture & State Management
 ![Clean](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
