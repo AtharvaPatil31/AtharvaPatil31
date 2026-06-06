@@ -28,9 +28,9 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Architecture & State Management
+![Clean](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
 ![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
-![MVVM](https://img.shields.io/badge/MVVM-6DB33F?style=for-the-badge)
+
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
