@@ -93,7 +93,7 @@
 
 🎖 Harvard HPAIR 2026 Delegate
 
-🎖 Oracle Certified Foundations Associate
+🎖 Oracle OCI Foundations Associate Certification
 
 🎖 MHT-CET 95.73 Percentile
 
