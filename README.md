@@ -97,13 +97,6 @@
 
 🎖 MHT-CET 95.73 Percentile
 
-
-## 📈 𝑮𝒊𝒕𝑯𝒖𝒃 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaPatil31&theme=tokyo-night&hide_border=true" />
-</p>
-
 ## 📫 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝑾𝒊𝒕𝒉 𝑴𝒆
 
 <p align="left">
