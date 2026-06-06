@@ -119,11 +119,3 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
-
-<div align="center">
-
-### 💭 𝑸𝒖𝒐𝒕𝒆
-
-*"Stay Hungry Stay Foolish - Steve Jobs."*
-
-</div>
