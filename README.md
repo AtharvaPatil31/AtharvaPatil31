@@ -28,7 +28,7 @@
 
 ### Architecture & State Management 
 ![BLoC](https://img.shields.io/badge/BLoC_State_Management-02569B?style=for-the-badge) 
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture_Principles-000000?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
 
 
 ### Backend
