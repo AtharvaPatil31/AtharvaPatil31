@@ -30,6 +30,8 @@
 ![BLoC](https://img.shields.io/badge/BLoC_State_Management-02569B?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture_Principles-000000?style=for-the-badge)
 
+State Management (BLoC Pattern) • Clean Architecture Principles
+
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
