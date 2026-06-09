@@ -95,9 +95,9 @@
 
 🎖 Oracle OCI Foundations Associate Certification
 
-🎖 MHT-CET 95.73 Percentile
-
 🎖 HP LIFE Agile Project Management Certified
+
+🎖 MHT-CET 95.73 Percentile
 
 ## 📫 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝑾𝒊𝒕𝒉 𝑴𝒆
 
