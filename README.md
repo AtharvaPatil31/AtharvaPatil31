@@ -107,7 +107,7 @@
 </a>
 
 <a href="mailto:atharvadp31@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://medium.com/@atharvapatil.dsa">
