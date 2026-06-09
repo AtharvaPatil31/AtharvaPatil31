@@ -97,6 +97,8 @@
 
 🎖 MHT-CET 95.73 Percentile
 
+🎖 HP LIFE Agile Project Management Certified
+
 ## 📫 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝑾𝒊𝒕𝒉 𝑴𝒆
 
 <p align="left">
